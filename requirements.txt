@@ -1,0 +1,5 @@
+# Requirements for Hackathon II - Todo App - Phase I
+# In-Memory Python Console App
+
+# No external dependencies required for Phase I
+# Using only Python standard library
